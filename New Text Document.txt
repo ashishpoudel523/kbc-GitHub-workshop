@@ -1,0 +1,16 @@
+### Node js Syllabus : [Click here](https://bit.ly/ek_node_js_syllabus)
+
+### Pre-requists before learning Nodejs: .
+
+    One must be familier with JavaScript Programming Language. ( JavaScript Crash Course : Video 1 , Video 2. )
+    One must Understand the following Concepts of JavaScript :
+    => Template Literals (https://youtu.be/bPZJ5J1MaLo)
+    => Arrow Functions (https://youtu.be/7H0erxjw3D0)
+    => Destructuring Assignment & Spread Opearators (https://youtu.be/7RZ2NFLQLP0)
+    =>Concept of Higher Order Functions (https://youtu.be/w_V4766FaMg )
+    => Higher Order Functions such as forEach,map,filter,reduce (https://youtu.be/5MCXFmAkP7s)
+    =>Asynchronous Operation in JavaScript (https://youtu.be/xgau66ctvMQ)
+    => Asynchronous JS Part 2 (callback, promises, async await ) (https://youtu.be/ZhSuj4SFPI8)
+    => ES6 Modules (https://youtu.be/2jcr7pGHcFo) 
+
+    One must have idea of frontend JavaScript Framework such as React, Vue or Angular. (Optional, but will be good for the course). React Full Playlist : Click here
